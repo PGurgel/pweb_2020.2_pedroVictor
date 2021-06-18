@@ -1,0 +1,19 @@
+#home{
+	background: #353839;
+	color: white;
+}
+.perfil{
+	 border: 3px solid #000;
+	 border-radius: 50%;
+
+}
+* {
+  box-sizing: border-box;
+}
+header{
+	margin-top: 78px;
+}
+nav.navbar-transparente {
+	padding: 15px 0px;
+	background: rgba(0,0,0,0.8);
+}

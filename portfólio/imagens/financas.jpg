@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<!-- saved from url=(0071)file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html -->
+<html lang="pt-br"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta tags Obrigatórias -->
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Estilo css -->
+    <link rel="stylesheet" type="text/css" href="./financas_files/estilo.css">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="./financas_files/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="./financas_files/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+
+    <title>Finans - finanças pessoais</title>
+  </head>
+  <body>
+    <header><!--Inicio cabeçalho-->
+      <nav class="navbar navbar-expand-sm navbar-light  bg-warning">
+        <div class="container"> 
+          <a href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html#" class="navbar-brand">
+            <img src="./financas_files/logo.png" width="142">
+          </a>
+      <button class="navbar-toggler" data-toggle="collapse" data-target="#nav-principal">
+      <span class="navbar-toggler-icon"></span>  
+      </button>
+    <div class="collapse navbar-collapse" id="nav-principal">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html#">Recursos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html#">Benefícios</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html#">Preços</a>
+        </li>
+       <li class="nav-item">
+        <a href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html" class="btn btn-outline-light ml-4">Entrar</a>
+        </li>
+      </ul>
+    </div>
+  </div>  
+</nav>
+      
+    </header><!--Fim cabeçalho-->
+
+    <section id="home"><!--inicio da seção home-->
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 d-flex"><!--Textos da seção-->
+            <div class="align-self-center">
+              <h1 class="display-4">Suas contas, descomplicadas</h1>
+              <p>Usando por mais de 1 milhão de pessoas, o Finans é uma ferramenta online que vai facilitar sua vida financeira</p>
+              <form class="mt-4 mb-4">
+                <div class="input-group input-group-lg">
+                  <input type="text" placeholder="Seu e-mail" class="form-control">
+                  <div class="input-group-append">
+                    <button type="button" class="btn btn-primary">Cadastre-se</button>
+                  </div>
+                </div>
+              </form>
+              <p>Disponivel para
+                <a href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html" class="btn btn-outline-light">  
+                  <i class="fab fa-android fa-lg"></i>
+                </a>
+                <a href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html" class="btn btn-outline-light">  
+                  <i class="fab fa-apple fa-lg"></i>
+                </a>
+              </p>
+            </div>
+          </div><!--Fim dos textos da seção-->
+          <div class="col-md-6 d-none d-md-block">
+            <img src="./financas_files/capa-mulher.png">
+          </div>
+        </div>
+      </div>
+    </section><!--Fim da seção-->
+
+    <section class="caixa"><!--inicio da seção saiba-->
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 d-flex">
+            <div class="align-self-center">
+              <h2>Saiba para onde vai o seu dinheiro </h2>
+              <p>
+                Com o Finans, você categoriza todos os seus lançamentos. Com gráficos simples, você sabe de onde vem e para onde vai o seu dinheiro.
+              </p>
+              <a href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html" class="btn btn-primary">Veja mais</a>
+            </div>
+          </div>
+        <div class="col-md-6">
+          <img src="./financas_files/saiba.png" class="img-fluid">
+        </div>
+        </div>
+      </div>
+    </section><!--Fim da seção saiba-->
+
+    <section class="caixa"><!--inicio da seção juros-->
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+          <img src="./financas_files/juros.png" class="img-fluid">
+        </div>
+          <div class="col-md-6 d-flex">
+            <div class="align-self-center">
+              <h2>Pare de pagar juros e economize</h2>
+              <p>
+                Manter as contas em dia é sempre um problema? O Finans avisa você: receba alertas de contas a pagar e a receber!
+              </p>
+              <a href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html" class="btn btn-primary">Veja mais</a>
+            </div>
+          </div>
+        </div>
+        </div>
+      
+    </section><!--Fim da seção juros-->
+
+    <section class="caixa"><!--Fim da seção suporte-->
+      <div class="container">
+  <div class="row">
+    <div class="col-md-4">
+       <img src="./financas_files/facil.png" class="img-fluid">
+       <h4>Fácil de usar</h4>
+            <p>O Finans vai além do básico e permite que você faça controles incríveis, essenciais para suas finanças. Simples como tem que ser!</p>
+            
+    </div>
+    <div class="col-md-4">
+      <img src="./financas_files/economize.png" class="img-fluid">
+        <h4>Economize seu tempo</h4>
+          <p>
+            Tempo é dinheiro! Em segundos, você tem tudo sob controle e aproveite seu tempo com o que realmente importa pra você!
+          </p>
+      </div>
+    <div class="col-md-4">
+      <img src="./financas_files/suporte.png" class="img-fluid">
+      <h4>Suporte amigo</h4>
+      <p>
+          Dúvidas? Perguntas? Nosso suporte super legal ajuda você! A gente tá aqui pra resolver seus problemas e deixar sua vida bem mais fácil!
+      </p>
+    </div>
+  </div>
+</div>
+    </section><!--Fim da seção suporte-->
+    <footer class="mt-4 mb-4">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8">
+            <p>
+              <a href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html">Home</a>
+              <a href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html">Recursos</a>
+              <a href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html">Benefícios</a>
+              <a href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html">Preços</a>
+            </p>
+          </div>
+          <div class="col-md-4 d-flex justify-content-end">
+            <a href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html" class="btn btn-outline-dark">
+              <i class="fab fa-facebook"></i>
+            </a>
+            <a href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html" class="btn btn-outline-dark ml-2">
+              <i class="fab fa-twitter"></i>
+            </a>
+            <a href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html" class="btn btn-outline-dark ml-2">
+              <i class="fab fa-instagram"></i>
+            </a>
+            <a href="file:///C:/Users/pgurg/Desktop/pedro/BSI/Curso%20Html/finans/index.html" class="btn btn-outline-dark ml-2">
+              <i class="fab fa-youtube"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- JavaScript (Opcional) -->
+    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="./financas_files/jquery-3.3.1.slim.min.js.download" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="./financas_files/popper.min.js.download" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="./financas_files/bootstrap.min.js.download" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  
+</body></html>
